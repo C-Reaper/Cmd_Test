@@ -124,6 +124,7 @@
 #include "/home/codeleaded/System/Static/Library/Lib3D_Mathlib.h"
 #include "/home/codeleaded/System/Static/Library/QueryLanguage.h"
 #include "/home/codeleaded/System/Static/Library/Lib3D_Mesh.h"
+#include "/home/codeleaded/System/Static/Library/Lib3D_World3D.h"
 #include "/home/codeleaded/System/Static/Library/LuaLikeDefines.h"
 #include "/home/codeleaded/System/Static/Library/Excel.h"
 #include "/home/codeleaded/System/Static/Library/String_G.h"
